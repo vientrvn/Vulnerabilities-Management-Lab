@@ -1,11 +1,12 @@
 # Vulnerabilities-Management-Lab
 
-NOTE: I am working on uploading more details for this project. Thank you for understanding!
-
 Brief Descriptions:
 - Installed and configured **Nessus Essentials** to perform credentialed vulnerability scans against **VM** hosts
 - Conducted vulnerability assessments with Nessus, remediated discoveries, and verified implementations
 - Developed automatic remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software
+
+NOTE:
+- Details of Nessus Essentials and what I worked with can be found at <a href=https://github.com/vientrvn/Vulnerabilities-Management-Lab/blob/main/Presentation.pptx/ target="blank">presentation.pptx</a> in this repository
 
 Motivation:
 - Gaining an understanding of what is a vulnerability, what kind of threats it can pose, and the solution. If you are in tune with the Cybersecurity industry at all then you may know about the Schoolzilla data breach where 1.3M users' data were exposed and vulnerable to hackers, or the vulnerabilities that were exploited at Illuminate Education allowing cybercriminals to gain access to the company’s network and private databases.
